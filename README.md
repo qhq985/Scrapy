@@ -59,7 +59,8 @@ Here are two website for more information:
   2.It is a interesting web, which will give you some interesting information and Authoritative knowledge everyday 
   
  ### Practice 4
-  1.I use 
+  1.I use More request instead of urlopen now
+  2.And I use urlretrieve to do multiple requests in a same time
  
  
  ### Practice 5

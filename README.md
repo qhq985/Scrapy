@@ -39,7 +39,8 @@ Here are two website for more information:
 
 * [Beautiful Soup 4.2.0 文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 竟然还有中文版
 
-* [How To Crawl A Web Page with Scrapy and Python 3](www.crummy.comhttps://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3) - The web from digitalocean
+
+* [How To Crawl A Web Page with Scrapy and Python 3](https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3) - The web from digitalocean
  
  ## Practice content
  I have several practices for Scrapy. So in there you will know...

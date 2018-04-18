@@ -43,29 +43,45 @@ Here are two website for more information:
  
  ## Practice content
  I have several practices for Scrapy. So in there you will know...
+
  
  ### Practice 1
-  1. Asyncio
-  2. Basic urlopen
- 
- 
- ### Practice 2
   1.scrapy from BaiduBaike
   2.Random loops search from index 
+  3.Basic urlopen
   
  
- ### Practice 3
+ ### Practice 2
   1.Download some pictures from daily.zhihu.com
   2.It is a interesting web, which will give you some interesting information and Authoritative knowledge everyday 
   
- ### Practice 4
+  
+ ### Practice 3
   1.I use More request instead of urlopen now
   2.And I use urlretrieve to do multiple requests in a same time
  
  
+ ### Practice 4
+  1.Scrapy_Multiprocessing
+  
+  
  ### Practice 5
-  1.A small login and sign in system...
+  1.Asyncio
+  2.Scrapy_Multiprocessing
+  3.Combine multiple request and threading together
+  4.Speed up your scrapy
  
+ 
+ ### Practice 6
+  1.Download package selenium
+  2.And download the webdriver for different Excursion
+  3.* [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
+    * [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) 
+    * [Firefox](https://github.com/mozilla/geckodriver/releases) 
+    * [WebDriver Support in Safari 10](https://webkit.org/blog/6900/webdriver-support-in-safari-10/) 
+  
+  ### Practice 7 
+  1.I run the selenium in the background now!
  
   ## Conclusion
   ```

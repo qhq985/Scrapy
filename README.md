@@ -47,7 +47,9 @@ Here are two website for more information:
  
  ### Practice 1
   1.scrapy from BaiduBaike
+  
   2.Random loops search from index 
+  
   3.Basic urlopen
   
  

@@ -75,13 +75,16 @@ Here are two website for more information:
  ### Practice 6
   1.Download package selenium
   2.And download the webdriver for different Excursion
-  3.* [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
+  3.Down some webdriver
+   * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
   
-    * [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) 
+   * [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) 
     
-    * [Firefox](https://github.com/mozilla/geckodriver/releases) 
     
-    * [WebDriver Support in Safari 10](https://webkit.org/blog/6900/webdriver-support-in-safari-10/) 
+   * [Firefox](https://github.com/mozilla/geckodriver/releases) 
+    
+    
+   * [WebDriver Support in Safari 10](https://webkit.org/blog/6900/webdriver-support-in-safari-10/) 
   
   ### Practice 7 
   1.I run the selenium in the background now!

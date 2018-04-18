@@ -53,11 +53,13 @@ Here are two website for more information:
  
  ### Practice 2
   1.Download some pictures from daily.zhihu.com
+  
   2.It is a interesting web, which will give you some interesting information and Authoritative knowledge everyday 
   
   
  ### Practice 3
   1.I use More request instead of urlopen now
+  
   2.And I use urlretrieve to do multiple requests in a same time
  
  
@@ -67,14 +69,19 @@ Here are two website for more information:
   
  ### Practice 5
   1.Asyncio
+  
   2.Scrapy_Multiprocessing
+  
   3.Combine multiple request and threading together
+  
   4.Speed up your scrapy
  
  
  ### Practice 6
   1.Download package selenium
+  
   2.And download the webdriver for different Excursion
+  
   3.Down some webdriver
    * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
   

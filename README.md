@@ -1,7 +1,6 @@
 # Scrapy
-Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.
-
-Python interface to Tcl/Tk
+Interesting Skills
+Search sth from website and give you more convenience
 
 ## Getting Started
 Em.....
